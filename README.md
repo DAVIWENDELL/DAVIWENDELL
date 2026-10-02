@@ -44,8 +44,6 @@ Também sou sócio na [Castro Compny](https://github.com/castrocompny).
 
 ## Portfólio
 
-Veja a apresentação pública dos projetos em [portfolio-projetos](https://github.com/DAVIWENDELL/portfolio-projetos).
-
 ## Tecnologias presentes nos meus projetos
 
 <p>
